@@ -21,13 +21,12 @@
 
 ### Examples of code:
   - **youtube-client** [RSS 2018-Q3 task 1](https://github.com/rolling-scopes-school/arturkudlo-2018Q3/tree/youtube-client)
-  - **Game (deep alpha)** [RSS 2018-Q3 task 2](https://dreamy-hoover-21653d.netlify.com/)
+  - **Game** [RSS 2018-Q3 task 2](https://dreamy-hoover-21653d.netlify.com/)
 
 ### Education
 Higher State College of Communications (2012-2015)  
-And a bunch of trainings:
-  - [Rolling Scopes School 2018-Q3](https://school.rollingscopes.com/)
+Rolling Scopes School 2018-Q3 (https://school.rollingscopes.com/)
 
 ### English level  
-English A2+ (speaking and writing skills)
-English course (2018  - currently) 
+  English A2+ (speaking and writing skills)
+  English course (2018  - currently) 
